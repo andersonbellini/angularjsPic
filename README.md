@@ -1,2 +1,3 @@
-# angularjsPic
-Picture to sample AngulaJS
+# AngularjsPic
+
+Project picture to sample using AngulaJS with expressJS
